@@ -1,3 +1,3 @@
 # hello-heroku
 
-herokuにデプロイする手順の確認用ripojitori
+herokuにデプロイする手順の確認用リポジトリ
